@@ -5,7 +5,7 @@
   $_SESSION['currentpage']='main';
   require_once("connect.php");
   require_once("navbar.php");
-  
+
   $_SESSION['logout']=0;
   if(!isset($_SESSION['logstat'])){
     require_once('checklogin.php');
@@ -24,7 +24,7 @@
   <style>
     /* Remove the navbar's default rounded borders and increase the bottom margin */
     .navbar {
-      margin-bottom: 50px;
+      margin-bottom: 50px;    
       border-radius: 0;
     }
 
