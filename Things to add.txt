@@ -1,0 +1,33 @@
+Admin
+- Manage promotion
+- Add price,Pic,modify products
+- Manage user
+
+Cart
+- Calculate price
+- Delivery method
+- Show small pic
+
+Search
+- From Name,Detail
+
+Filter
+- Price range
+
+Account
+- History
+- Profile
+- Manage account
+- Accumulate Point
+
+Home
+- Preorder
+- Kickstarter
+
+Login
+- incorrect page
+- create account page
+- log Out
+
+Restock
+- check $_SSESSION['username']=="admin" to link to restock
